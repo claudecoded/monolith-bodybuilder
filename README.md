@@ -2,6 +2,8 @@
 
 > "If your computer can't handle the weight, get out of the cloud."
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/93964963-2c0c-4ecd-9d0c-e06a427e546d" />
+
 `monolith-bodybuilder` is a brutalist, hyper-heavy backend framework designed for developer-bodybuilders who refuse modern, flimsy trends like microservices, Docker containers, or separate files. 
 
 Inspired by the ultimate alpha physique—naked to the core, standing unbothered in a backyard, wearing nothing but a wide-open hoodie—this framework runs **bare-metal, completely exposed, and takes up 100% of your machine's soul.**
